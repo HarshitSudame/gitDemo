@@ -1,2 +1,2 @@
-This file a.
+I am file A.txt.
 Hey this is line 2 of file A
